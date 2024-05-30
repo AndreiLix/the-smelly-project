@@ -1,6 +1,6 @@
 # Insights from the Olfactory System:
 ## Exploring Expansion and Sparseness for Efficient Spiking Neural Network Architectures
-Victor Petre, Brandon Chin-A-Lien, Laurens van Rongen, Andrei Lixandru
+by Victor Petre, Brandon Chin-A-Lien, Laurens van Rongen, Andrei Lixandru
 
 This project started from 4 lads with different backgrounds and the simple question "how does smell work?". Among the outcomes of the project was contributing to the effort of informed ANN architecture choices by showing that in SNNs, _local learning rules make the system performance sensitive to the expansion ratio_ between layers, while _non-local learning rules making the system insensitive_ to expansion ratios.
 
