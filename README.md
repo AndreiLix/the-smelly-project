@@ -5,7 +5,7 @@ This project started from 4 lads with different backgrounds and the simple quest
 
 This discovery guides further research in efficient deep learning (SNNs) architectures in the following way: 
 - if we want **local learning** rules (e.g., STDP) between two layers we better have a **high expansion ratio betwen the pre- and pos-synaptic neurons**.
-- if we want **non-local** learning rules (e.g., DECOLLE) between two layers we can be economical with our network capacity and **have as little post-synaptic neurons as pre-synaptic ones**. 
+- if we want **non-local** learning rules (e.g., DECOLLE) between two layers we can be economical with our network capacity and **have as few post-synaptic neurons as pre-synaptic ones**. 
 
 
 ![image](https://github.com/AndreiLix/the-smelly-project/assets/94043928/2a1c7a7e-5474-4769-b365-9843d252f32b)
